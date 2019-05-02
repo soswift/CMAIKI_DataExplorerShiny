@@ -1,0 +1,12 @@
+name: fullbubbleplots-master
+title: fullbubbleplots-master
+username:
+account: c-maiki-explorer
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 899611
+bundleId: 2048775
+url: https://c-maiki-explorer.shinyapps.io/fullbubbleplots-master/
+when: 1556603261.41179
+asMultiple: FALSE
+asStatic: FALSE
